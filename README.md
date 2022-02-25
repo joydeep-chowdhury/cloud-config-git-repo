@@ -1,1 +1,1 @@
-# cloud-config-git-repo
+# Git Repo for Spring Cloud microservice configuration
